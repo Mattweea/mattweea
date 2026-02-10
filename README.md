@@ -21,8 +21,8 @@ Recently I worked on an **enterprise AI platform for regulatory/compliance docum
 🐍 Python • FastAPI • REST APIs • Modular architectures
 
 **Frontend**  
-⚛️ React • 🟦 TypeScript • JavaScript • jQuery  
-⚡ Vite • 🌬 Tailwind CSS • 🅱️ Bootstrap • Alpine.js
+⚛️ React • 🟦 TypeScript • 🟨 JavaScript • 🟨 jQuery  
+⚡ Vite • 🌬 Tailwind CSS • 🅱️ Bootstrap • ⬜ Alpine.js
 
 **Databases & Systems**  
 🛢 MySQL • 🐘 PostgreSQL  
@@ -95,8 +95,7 @@ I.I.S.S. "Cataldo Agostinelli" — Ceglie Messapica, Italy
 ## 📫 Get in Touch
 
 - 📧 **Email:** albanese.mattia@icloud.com
-- 💼 **LinkedIn:** *(add your profile link here)*
-- 🌐 **Portfolio:** *(optional)*
+- 💼 **LinkedIn:** https://tinyurl.com/linkedin-mattiaalbanese
 
 ---
 
